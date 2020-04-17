@@ -18,3 +18,7 @@ Detekt.report {
     path = "/path/to/the/detekt/reports/"
 }
 ```
+
+#### Reporting a Vulnerability
+
+https://hackerone.com/central-security-project/reports/new
